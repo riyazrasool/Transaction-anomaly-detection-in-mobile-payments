@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 📱 PhonePe-like UPI Fraud Detection Application
+# 📱 Mobile UPI Fraud Detection Application
 
 A comprehensive, production-ready payment application with integrated machine learning-based fraud detection engine. This application simulates real-world UPI transactions with realistic fraud patterns.
 
